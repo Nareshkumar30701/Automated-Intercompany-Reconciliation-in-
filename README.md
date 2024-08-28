@@ -21,7 +21,7 @@ Company_B.csv: Second CSV file containing account data for reconciliation.
 
 ## GUI Script
 Application Script
-reconciliation_gui.py: This script creates a Tkinter-based GUI that allows users to:
+reconciliation.py: This script creates a Tkinter-based GUI that allows users to:
 
 Select the two input CSV files for reconciliation.
 Specify the output location for saving the reconciled report.
